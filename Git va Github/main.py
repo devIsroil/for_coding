@@ -9,6 +9,3 @@ def minus(a,b):
 
     print(a-b)
 
-def multipy(a,b):
-
-    print(a*b)    
