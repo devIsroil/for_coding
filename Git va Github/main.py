@@ -1,2 +1,2 @@
 def find(a,b):
-    a+b
+    find(a+b)
